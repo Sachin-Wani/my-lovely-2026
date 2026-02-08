@@ -42,14 +42,14 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Kitiii te premmmm, I am grateful!! 🧿🥹🫶💝",  // Shows when they go past 5000%
-        high: "I am feeling your love everyday! 🚀💝",              // Shows when they go past 1000%
-        normal: "This is how it should be 🥰"                           // Shows when they go past 100%
+        extreme: "Kitiii te premmmm, I am grateful!!! 🧿🥹🫶💝",  // Shows when they go past 5000%
+        high: "Now you're obsessed darling!! 🚀💝",              // Shows when they go past 1000%
+        normal: "Ajun prem kartes tu! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I love you Sakshi! 🫶🎉💝💖💝💓",
+        title: "I love you my (soon to be) Wifey! 🫶🎉💝💖💝💓",
         message: "Can't wait to see you again! And give you lots of warm hugs, kisses, and all my time! 😭🧿🥹🫶",
         emojis: "🎁💖🤗💝🧿🥹💋❤️💕🫶"  // These will bounce around
     },
